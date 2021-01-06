@@ -6,6 +6,6 @@
 
 ---
 
-- `public-cloud-doc-wizard.html`（公有云文档解析）
+- `text-analysis-templete-download.html`（文档解析-模板下载）
 
-![公有云文档解析](./public-cloud-doc-wizard.png)
+![文档解析-模板下载](./text-analysis-templete-download.png)
