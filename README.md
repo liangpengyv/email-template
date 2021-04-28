@@ -1,6 +1,6 @@
 # 邮件模板
 
-- [public-cloud-invitaion.html](./public-cloud-invitaion.html)（公有云-邀请）
+- [public-cloud-invitation.html](./public-cloud-invitation.html)（公有云-邀请）
 
 ![公有云-邀请](./public-cloud-invitation.png)
 
